@@ -1,31 +1,23 @@
-¡Hola! Me llamo Nirvana.
-Vivo en Tucumán, Argentina.
+<h1 align="center">Hi 👋, I'm Nirvana</h1>
+<h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
- Soy desarrolladora Full Stack recién graduada de "Soy Henry". 
-En este bootcamp aprendí tecnologías como React-Redux, Javascript, PostgreSQL, Express y Next.Js, entre otros. También pulí habilidades blandas como el trabajo en equipo, la comunicación y liderazgo, gracias también a que fui parte del programa Henry Hero donde acompañamos en la práctica de código enseñando a los ingresantes.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirraschi" alt="nirraschi" /></a> </p>
 
-💻 ¿Cuál es mi motivación?
- ⚡️ Desarrollarme en equipos de trabajo eficientes.
- ⚡️ Mejorar tanto en el aspecto personal, como laboral.
- ⚡️ Seguir adquiriendo conocimientos referidos al desarrollo para poder utilizar mi creatividad para innovar en tecnología.
- ⚡️ Aprender nuevos lenguajes de programación y tecnologías innovadoras.
+- 👨‍💻 All of my projects are available at [nirvanaraschi.com](nirvanaraschi.com)
 
+- 📫 How to reach me **nirraschi@gmail.com**
 
-🌸 ¿Que tipo de persona soy?
-Me considero una persona empática, comunicativa, curiosa y creativa. Responsable y comprometida en todo lo que me propongo. Siempre busco tener una actitud positiva y encontrar aprendizaje en cada momento.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nirvanaraschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nirvanaraschi/" height="30" width="40" /></a>
+<a href="https://fb.com/nirvana.raschi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirvana.raschi.1" height="30" width="40" /></a>
+<a href="https://instagram.com/nirraschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirraschi" height="30" width="40" /></a>
+</p>
 
-👾 ¿Hobbies?
-Desde muy chica mi hobbie fue la tecnología. Siempre tuve curiosidad y muchas ganas de aprender más sobre desarrollo. ¡Me encantaban los videojuegos y no podia evitar pensar en cómo desarrollar uno!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-Siempre me gustó el arte, así que uniendo estas dos pasiones me desarrolle como diseñadora gráfica de manera autodidacta, obteniendo mis primeros trabajos como diseñadora a los 17 años en la plataforma freelancer.com .
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nirraschi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nirraschi" /></a></p><br><br>
 
- Otra de mis pasiones son las finanzas digitales. 
-Soy trader profesional con 4 años de experiencia tradeando forex y criptomonedas. Conocimientos que conseguí graduandome de Experta Universitaria en Mercado de Capitales, y también de forma autodidacta. Esto me llevo a aprender bases de Python, ya que sirven mucho para la programación de bots de trading.
-
-
-
-
-📌 ¿Quieres saber más sobre mí? ¡Contáctame!
-E-mail: nirraschi@gmail.com
-GitHub: https://github.com/nirraschi
-Teléfono: +54 381 4643636
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirraschi&show_icons=true&locale=en&layout=compact" alt="nirraschi" /></p>
